@@ -1,4 +1,4 @@
-# DND2019
+# Dungeons and Dragons in C++
 Dungeons and Dragons but in C++
 
 
